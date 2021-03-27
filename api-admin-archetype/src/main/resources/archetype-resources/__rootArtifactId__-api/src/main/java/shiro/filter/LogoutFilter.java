@@ -3,7 +3,7 @@
 //import com.wz.common.util.Results;
 //import com.wz.redis.util.RedisUtil;
 //import com.wz.shiro.bean.ShiroProperties;
-//import com.wz.shiro.filter.FilterHelper;
+//import com.wz.web.filter.FilterHelper;
 //import ${package}.shiro.LoginUser;
 //import ${package}.shiro.authc.PhonePasswordRealm;
 //import ${package}.shiro.authc.WeChatRealm;
